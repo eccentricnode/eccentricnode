@@ -8,4 +8,6 @@ Right now I am learning backend programming using a weird mix of JavaScript and 
 Check out my blog for my thoughts on tech, life, etc. 
 
 <!-- BLOG-POST-LIST:START -->
+- [My Second Post](https://www.theaustinjohnson.com/posts/my-second-post/)
+- [My First Post](https://www.theaustinjohnson.com/posts/my-first-post/)
 <!-- BLOG-POST-LIST:END -->
