@@ -2,6 +2,8 @@
 
 I am learning backend programming using a weird mix of JavaScript and Python. 
 
+I love tinkering with Linux, and I am rocking a Pop_OS as my daily driver. 
+
 I follow https://boot.dev courses.
 
 I am great at building UIs and can get started in Frontend project pretty quickly.
