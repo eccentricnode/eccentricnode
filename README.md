@@ -4,8 +4,8 @@ I am great at building UIs and can get started in Frontend project pretty quickl
 
 Right now I am learning backend programming using a weird mix of JavaScript and Python. 
 
-### My Ideas 
-you can check out my blog, for my thoughts on tech, life, etc. 
+### My latest ideas 
+Check out my blog for my thoughts on tech, life, etc. 
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
