@@ -7,5 +7,5 @@ Right now I am learning backend programming using a weird mix of JavaScript and 
 ### My Ideas 
 you can check out my blog, for my thoughts on tech, life, etc. 
 
-!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
