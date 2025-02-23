@@ -19,6 +19,5 @@ I am great at building UIs and can get started in Frontend project pretty quickl
 Check out my blog for my thoughts on tech, life, etc. 
 
 <!-- BLOG-POST-LIST:START -->
-- [My Second Post](https://www.theaustinjohnson.com/posts/my-second-post/)
-- [My First Post](https://www.theaustinjohnson.com/posts/my-first-post/)
+- [Worst Piece of Advice I received, early in my career](https://www.theaustinjohnson.com/posts/worst-career-advice/)
 <!-- BLOG-POST-LIST:END -->
