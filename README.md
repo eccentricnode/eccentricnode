@@ -19,5 +19,7 @@ I am great at building UIs and can get started in Frontend project pretty quickl
 Check out my blog for my thoughts on tech, life, etc. 
 
 <!-- BLOG-POST-LIST:START -->
-- [Worst Piece of Advice I received, early in my career](https://www.theaustinjohnson.com/posts/worst-career-advice/)
+- [Learn to pay down the cost of action](https://www.theaustinjohnson.com/posts/pay-cost-of-action/)
+- [Hesition Is Defeat](https://www.theaustinjohnson.com/posts/hesition-is-defeat/)
+- [AI reduces cycle time, with auto didactic learning](https://www.theaustinjohnson.com/posts/ai-helps-with-learning/)
 <!-- BLOG-POST-LIST:END -->
