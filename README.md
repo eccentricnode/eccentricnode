@@ -1,19 +1,8 @@
 # Austin Johnson
 
-I am learning backend programming using a weird mix of JavaScript and Python. 
+I am an AI Engineer who loves tinkering with Linux, and I am rocking a Arch linux as my daily driver. 
 
-I love tinkering with Linux, and I am rocking a Pop_OS as my daily driver. 
-
-I follow https://boot.dev courses.
-
-I am great at building UIs and can get started in Frontend project pretty quickly.
-
-### I have experience with:
- - Angular
- - Vue.js
- - Nuxt.js
- - .NET Core/C#
- - Ktor/Kotlin 
+I am use claude code, and Jeff my [Jeff](https://www.theaustinjohnson.com/posts/meet-jeff/) (personal AI Infrastructure) and develop projects fast. Really fast. We're trying to see how fast we can go.
 
 # My latest ideas 
 Check out my blog for my thoughts on tech, life, etc. 
