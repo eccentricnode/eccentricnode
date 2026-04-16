@@ -23,11 +23,11 @@ I'm not a vibe coder. I [graduated from that](https://www.theaustinjohnson.com/p
 ## Latest writing
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Personal AI Infrastructure](https://www.theaustinjohnson.com/posts/building-personal-ai-infrastructure/)
-- [Learning AI Engineering: My PDF Q&amp;A Bot Journey](https://www.theaustinjohnson.com/posts/pdf-chatbot/)
-- [Adventures With AI, Docker, and running it on WSL 2](https://www.theaustinjohnson.com/posts/adventures-with-ai-docker-wsl/)
-- [Learn to pay down the cost of action](https://www.theaustinjohnson.com/posts/pay-cost-of-action/)
-- [Hesition Is Defeat](https://www.theaustinjohnson.com/posts/hesition-is-defeat/)
+- [Everyone&#39;s Talking About AI Loops. They&#39;re Missing the Point.](https://www.theaustinjohnson.com/posts/everyone-missed-the-point/)
+- [How I Graduated from Spec-Based Vibe Coding to Agentic Engineering](https://www.theaustinjohnson.com/posts/graduated-vibe-coding-to-agentic-engineering/)
+- [Clear Thinking is the Top 1% Skill in the Age of AI](https://www.theaustinjohnson.com/posts/clear-thinking-ai/)
+- [The AI-Augmented Learning Thesis](https://www.theaustinjohnson.com/posts/ai-augmented-learning-thesis/)
+- [Semantic Blueprints: Separating Domain Knowledge from AI Orchestration](https://www.theaustinjohnson.com/posts/semantic-blueprints-architecture/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Reach me
