@@ -10,7 +10,7 @@ I'm not a vibe coder. I [graduated from that](https://www.theaustinjohnson.com/p
 
 **[ContentEngine](https://github.com/eccentricnode/ContentEngine)** — Agentic content pipeline. Arbitrary-input ingestion, adaptive triage, rejection rubrics. Designed as a CLI/MCP for technical operators, not a UI product.
 
-**[sales-rpg-ai](https://github.com/eccentricnode/sales-rpg-ai)** — Real-time AI sales coach. Listens to calls, surfaces objection responses live. I built it for myself — close rate went 5% → 25% in a month, then 40% the next.
+**[sales-rpg-ai](https://github.com/eccentricnode/sales-rpg-ai)** — Real-time AI sales coach. Listens to calls, surfaces objection responses live. I built it for myself — close rate went 5% → 25% in a month, 25% → 30% the next month, eventually then 40%.
 
 **[rough-remotion](https://github.com/eccentricnode/rough-remotion)** — Animated hand-drawn diagrams rendered to MP4. Remotion + rough.js + React + TypeScript. For content creators who hate generic explainer aesthetics.
 
