@@ -1,17 +1,23 @@
 name: Latest blog post workflow
 on:
-  schedule: # Run workflow automatically
-    - cron: '0 * * * *' # Runs every hour, on the hour
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+  schedule:
+    # Sunday at 12:00 UTC — keeps the README's blog list fresh weekly.
+    - cron: '0 12 * * 0'
+  workflow_dispatch:
 
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
-      - name: Pull in dev.to posts
+        uses: actions/checkout@v4
+
+      - name: Pull in latest blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://www.theaustinjohnson.com/index.xml"
+          # Cloudflare in front of theaustinjohnson.com 403s the action's default UA.
+          user_agent: "Mozilla/5.0 (compatible; blog-post-workflow; +https://github.com/gautamkrishnar/blog-post-workflow)"
