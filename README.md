@@ -14,9 +14,7 @@ I'm not a vibe coder. I [graduated from that](https://www.theaustinjohnson.com/p
 
 **[rough-remotion](https://github.com/eccentricnode/rough-remotion)** — Animated hand-drawn diagrams rendered to MP4. Remotion + rough.js + React + TypeScript. For content creators who hate generic explainer aesthetics.
 
-**[cognite-industrial-sensor-monitoring](https://github.com/eccentricnode/cognite-industrial-sensor-monitoring)** — A coding-challenge solution showing how I work end-to-end with an AI-native loop. Same delivery quality I bring to client work.
-
-**[Personal_AI_Infrastructure](https://github.com/eccentricnode/Personal_AI_Infrastructure)** — My fork of Daniel Miessler's PAI, customized for how I actually use Claude Code every day.
+**[PAI-Lite](https://github.com/eccentricnode/pai-lite)** — My fork of Daniel Miessler's PAI, customized for how I actually use Claude Code every day.
 
 **[kubecraft-yt-transcript-api](https://github.com/eccentricnode/kubecraft-yt-transcript-api)** — Small but useful: pulls YouTube transcripts as an API.
 
